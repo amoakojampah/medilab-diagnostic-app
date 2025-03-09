@@ -1,5 +1,5 @@
 ### medilab-diagnostic-app
- simple CRUD application b to help medical laboratories manage diagnostic test results efficiently.
+ simple CRUD application to help medical laboratories manage diagnostic test results efficiently.
 
 ## Features
 Create, Read, Update, Delete (CRUD) operations for diagnostic test results.
