@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+echo "node_modules/
+.next/
+*.log
+.env" > .gitignore
