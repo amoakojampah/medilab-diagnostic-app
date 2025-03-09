@@ -1,4 +1,4 @@
-### medilab-diagnostic-app
+### Medilab-diagnostic-app
 Simple CRUD application to help medical laboratories manage diagnostic test results efficiently.
 
 ## Features
