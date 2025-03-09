@@ -1,5 +1,5 @@
 ### medilab-diagnostic-app
- simple CRUD application to help medical laboratories manage diagnostic test results efficiently.
+Simple CRUD application to help medical laboratories manage diagnostic test results efficiently.
 
 ## Features
 Create, Read, Update, Delete (CRUD) operations for diagnostic test results.
@@ -15,6 +15,13 @@ Database: PostgreSQL
 ORM: Prisma
 Validation: Zod
 
+
+## API Endpoints
+POST `/api/tests`: Add a new test result.
+GET `/api/tests`: List all test results.
+GET `/api/tests/:id`: Get a specific test result.
+PUT `/api/tests/:id`: Update a test result.
+DELETE `/api/tests/:id`: Delete a test result.
 
 ## Architecture
 The application follows a client-server architecture:
