@@ -19,8 +19,8 @@ Validation: Zod
 ## Architecture
 The application follows a client-server architecture:
 1. Frontend: Built with Next.js and Tailwind CSS, providing a user-friendly interface for managing test results.
-2. Backend**: Next.js API routes handle CRUD operations and interact with the PostgreSQL database using Prisma ORM.
-3. Database**: PostgreSQL stores diagnostic test results with the following schema:
+2. Backend: Next.js API routes handle CRUD operations and interact with the PostgreSQL database using Prisma ORM.
+3. Database: PostgreSQL stores diagnostic test results with the following schema:
   
 ## Setup
 1. Clone the repository.
